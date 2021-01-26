@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/KanyeWestQuoteGenerator/static/css/main.2d7c05af.chunk.css",
+    "main.js": "/KanyeWestQuoteGenerator/static/js/main.c132485b.chunk.js",
+    "main.js.map": "/KanyeWestQuoteGenerator/static/js/main.c132485b.chunk.js.map",
+    "runtime-main.js": "/KanyeWestQuoteGenerator/static/js/runtime-main.e0589d68.js",
+    "runtime-main.js.map": "/KanyeWestQuoteGenerator/static/js/runtime-main.e0589d68.js.map",
+    "static/js/2.59764d84.chunk.js": "/KanyeWestQuoteGenerator/static/js/2.59764d84.chunk.js",
+    "static/js/2.59764d84.chunk.js.map": "/KanyeWestQuoteGenerator/static/js/2.59764d84.chunk.js.map",
+    "static/js/3.c9015e07.chunk.js": "/KanyeWestQuoteGenerator/static/js/3.c9015e07.chunk.js",
+    "static/js/3.c9015e07.chunk.js.map": "/KanyeWestQuoteGenerator/static/js/3.c9015e07.chunk.js.map",
+    "index.html": "/KanyeWestQuoteGenerator/index.html",
+    "static/css/main.2d7c05af.chunk.css.map": "/KanyeWestQuoteGenerator/static/css/main.2d7c05af.chunk.css.map",
+    "static/js/2.59764d84.chunk.js.LICENSE.txt": "/KanyeWestQuoteGenerator/static/js/2.59764d84.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/KanyeWestQuoteGenerator/static/media/triangles.9ab9b705.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0589d68.js",
+    "static/js/2.59764d84.chunk.js",
+    "static/css/main.2d7c05af.chunk.css",
+    "static/js/main.c132485b.chunk.js"
+  ]
+}
